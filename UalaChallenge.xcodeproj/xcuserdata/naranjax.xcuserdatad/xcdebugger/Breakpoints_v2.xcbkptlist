@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "3AFC6732-16A2-486C-9111-E635D9A2254A"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "070B672D-039A-410A-89DF-458C1C399CB9"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "UalaChallenge/UIComponents/ChallengeCityCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "33"
+            endingLineNumber = "33"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "070B672D-039A-410A-89DF-458C1C399CB9 - 6d8ed22396ad69ad"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.onTapGesture(count: Swift.Int, perform: () -&gt; ()) -&gt; some&gt;&gt;.0, SwiftUI.HStack&lt;SwiftUI.TupleView&lt;(SwiftUI.Button&lt;&lt;&lt;opaque return type of SwiftUI.View.font(Swift.Optional&lt;SwiftUI.Font&gt;) -&gt; some&gt;&gt;.0&gt;, SwiftUI.Button&lt;&lt;&lt;opaque return type of SwiftUI.View.font(Swift.Optional&lt;SwiftUI.Font&gt;) -&gt; some&gt;&gt;.0&gt;)&gt;&gt;)&gt; in UalaChallenge.ChallengeCityCell.body.getter : some"
+                  moduleName = "UalaChallenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/naranjax/Documents/Personal/UalaChallenge/UalaChallenge/UalaChallenge/UIComponents/ChallengeCityCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "1272">
+               </Location>
+               <Location
+                  uuid = "070B672D-039A-410A-89DF-458C1C399CB9 - 5b7a14c099ab2088"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 () -&gt; () in closure #1 () -&gt; SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.onTapGesture(count: Swift.Int, perform: () -&gt; ()) -&gt; some&gt;&gt;.0, SwiftUI.HStack&lt;SwiftUI.TupleView&lt;(SwiftUI.Button&lt;&lt;&lt;opaque return type of SwiftUI.View.font(Swift.Optional&lt;SwiftUI.Font&gt;) -&gt; some&gt;&gt;.0&gt;, SwiftUI.Button&lt;&lt;&lt;opaque return type of SwiftUI.View.font(Swift.Optional&lt;SwiftUI.Font&gt;) -&gt; some&gt;&gt;.0&gt;)&gt;&gt;)&gt; in UalaChallenge.ChallengeCityCell.body.getter : some"
+                  moduleName = "UalaChallenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/naranjax/Documents/Personal/UalaChallenge/UalaChallenge/UalaChallenge/UIComponents/ChallengeCityCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "56">
+               </Location>
+               <Location
+                  uuid = "070B672D-039A-410A-89DF-458C1C399CB9 - 6d8ed22396ad764c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.onTapGesture(count: Swift.Int, perform: () -&gt; ()) -&gt; some&gt;&gt;.0, SwiftUI.HStack&lt;SwiftUI.TupleView&lt;(SwiftUI.Button&lt;&lt;&lt;opaque return type of SwiftUI.View.font(Swift.Optional&lt;SwiftUI.Font&gt;) -&gt; some&gt;&gt;.0&gt;, SwiftUI.Button&lt;&lt;&lt;opaque return type of SwiftUI.View.font(Swift.Optional&lt;SwiftUI.Font&gt;) -&gt; some&gt;&gt;.0&gt;)&gt;&gt;)&gt; in UalaChallenge.ChallengeCityCell.body.getter : some"
+                  moduleName = "UalaChallenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/naranjax/Documents/Personal/UalaChallenge/UalaChallenge/UalaChallenge/UIComponents/ChallengeCityCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "1312">
+               </Location>
+               <Location
+                  uuid = "070B672D-039A-410A-89DF-458C1C399CB9 - 5b7a14c099ab3f69"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 () -&gt; () in closure #1 () -&gt; SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.onTapGesture(count: Swift.Int, perform: () -&gt; ()) -&gt; some&gt;&gt;.0, SwiftUI.HStack&lt;SwiftUI.TupleView&lt;(SwiftUI.Button&lt;&lt;&lt;opaque return type of SwiftUI.View.font(Swift.Optional&lt;SwiftUI.Font&gt;) -&gt; some&gt;&gt;.0&gt;, SwiftUI.Button&lt;&lt;&lt;opaque return type of SwiftUI.View.font(Swift.Optional&lt;SwiftUI.Font&gt;) -&gt; some&gt;&gt;.0&gt;)&gt;&gt;)&gt; in UalaChallenge.ChallengeCityCell.body.getter : some"
+                  moduleName = "UalaChallenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/naranjax/Documents/Personal/UalaChallenge/UalaChallenge/UalaChallenge/UIComponents/ChallengeCityCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "56">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C4A7F214-F568-4C24-B6CA-8BBB6422CC2E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "UalaChallenge/Scenes/ChallengeMainScene/ChallengeMainViewLayer/ChallengeMainView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "132"
+            endingLineNumber = "132"
+            landmarkName = "navigateToMap(lat:lon:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "C4A7F214-F568-4C24-B6CA-8BBB6422CC2E - 815af239fca870d9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UalaChallenge.ChallengeMainView.navigateToMap(lat: Swift.Double, lon: Swift.Double) -&gt; ()"
+                  moduleName = "UalaChallenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/naranjax/Documents/Personal/UalaChallenge/UalaChallenge/UalaChallenge/Scenes/ChallengeMainScene/ChallengeMainViewLayer/ChallengeMainView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "92"
+                  endingLineNumber = "92"
+                  offsetFromSymbolStart = "196">
+               </Location>
+               <Location
+                  uuid = "C4A7F214-F568-4C24-B6CA-8BBB6422CC2E - 815af239fca80d26"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UalaChallenge.ChallengeMainView.navigateToMap(lat: Swift.Double, lon: Swift.Double) -&gt; ()"
+                  moduleName = "UalaChallenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/naranjax/Documents/Personal/UalaChallenge/UalaChallenge/UalaChallenge/Scenes/ChallengeMainScene/ChallengeMainViewLayer/ChallengeMainView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "133"
+                  endingLineNumber = "133"
+                  offsetFromSymbolStart = "196">
+               </Location>
+               <Location
+                  uuid = "C4A7F214-F568-4C24-B6CA-8BBB6422CC2E - 815af239fca80d01"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UalaChallenge.ChallengeMainView.navigateToMap(lat: Swift.Double, lon: Swift.Double) -&gt; ()"
+                  moduleName = "UalaChallenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/naranjax/Documents/Personal/UalaChallenge/UalaChallenge/UalaChallenge/Scenes/ChallengeMainScene/ChallengeMainViewLayer/ChallengeMainView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "132"
+                  endingLineNumber = "132"
+                  offsetFromSymbolStart = "196">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E032D96D-0887-4085-A219-009017672FF0"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "UalaChallenge/Core/Networking/ChallengeNetworkClient.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "get(from:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "E032D96D-0887-4085-A219-009017672FF0 - c43899fae1ad70dd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for UalaChallenge.ChallengeNetworkClient.get&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(from: Swift.String) async -&gt; Swift.Result&lt;&#x3c4;_0_0, UalaChallenge.ChallengeNetworkError&gt;"
+                  moduleName = "UalaChallenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/naranjax/Documents/Personal/UalaChallenge/UalaChallenge/UalaChallenge/Core/Networking/ChallengeNetworkClient.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "156">
+               </Location>
+               <Location
+                  uuid = "E032D96D-0887-4085-A219-009017672FF0 - c43899fae1ad70dd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for UalaChallenge.ChallengeNetworkClient.get&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(from: Swift.String) async -&gt; Swift.Result&lt;&#x3c4;_0_0, UalaChallenge.ChallengeNetworkError&gt;"
+                  moduleName = "UalaChallenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/naranjax/Documents/Personal/UalaChallenge/UalaChallenge/UalaChallenge/Core/Networking/ChallengeNetworkClient.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "168">
+               </Location>
+               <Location
+                  uuid = "E032D96D-0887-4085-A219-009017672FF0 - c43899fae1ad70dd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for UalaChallenge.ChallengeNetworkClient.get&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(from: Swift.String) async -&gt; Swift.Result&lt;&#x3c4;_0_0, UalaChallenge.ChallengeNetworkError&gt;"
+                  moduleName = "UalaChallenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/naranjax/Documents/Personal/UalaChallenge/UalaChallenge/UalaChallenge/Core/Networking/ChallengeNetworkClient.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "304">
+               </Location>
+               <Location
+                  uuid = "E032D96D-0887-4085-A219-009017672FF0 - 93e7078e1486bcdf"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for UalaChallenge.ChallengeNetworkClient.get&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(from: Swift.String) async -&gt; Swift.Result&lt;&#x3c4;_0_0, UalaChallenge.ChallengeNetworkError&gt;"
+                  moduleName = "UalaChallenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/naranjax/Documents/Personal/UalaChallenge/UalaChallenge/UalaChallenge/Core/Networking/ChallengeNetworkClient.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "988">
+               </Location>
+               <Location
+                  uuid = "E032D96D-0887-4085-A219-009017672FF0 - c9c2484411f31ac0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for UalaChallenge.ChallengeNetworkClient.get&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(from: Swift.String) async -&gt; Swift.Result&lt;&#x3c4;_0_0, UalaChallenge.ChallengeNetworkError&gt;"
+                  moduleName = "UalaChallenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/naranjax/Documents/Personal/UalaChallenge/UalaChallenge/UalaChallenge/Core/Networking/ChallengeNetworkClient.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "364">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
